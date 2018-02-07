@@ -1,0 +1,6 @@
+# Source QuestaSim settings
+
+# Go to run directory
+
+# run
+../scripts/compile.tcsh
